@@ -55,3 +55,19 @@ tag{
 h1{
 		color:red;
 }
+
+Ctrl + L = Clear Log
+
+How to upload the code on github?
+
+There are 5 steps of command you have to write
+
+1. git init
+2. git remote add origin <repo_link>
+3. git add . (Stagging)
+4. git commit -m "Message"
+5. git push origin <branch_name>
+
+
+
+
